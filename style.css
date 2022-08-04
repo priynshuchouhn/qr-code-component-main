@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
-}
 .background{
+    
     display: flex;
     background-color: hsl(220, 15%, 55%);
     align-items: center;
     width: 100%;
     justify-content: center;
-    height:1000px;
+    height: 1000px;
     
 }
 .container{
@@ -17,7 +17,7 @@
     background-color: white;
     padding: 15px;
     border-radius: 20px;
-    width: 25%;
+    width: 300px;
     text-align: center;
    
 }
